@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ChocolateAbstractFactory.MainProgram/1.0.0": {
+        "dependencies": {
+          "ChocolateAbstractFactory.Classes": "1.0.0"
+        },
+        "runtime": {
+          "ChocolateAbstractFactory.MainProgram.dll": {}
+        }
+      },
+      "ChocolateAbstractFactory.Classes/1.0.0": {
+        "runtime": {
+          "ChocolateAbstractFactory.Classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChocolateAbstractFactory.MainProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChocolateAbstractFactory.Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
